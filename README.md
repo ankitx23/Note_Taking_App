@@ -1,15 +1,15 @@
 
 
-## :hammer: Technologies & Tools
+## Technologies & Tools
 
 - React
-- Redux ([Redux Toolkit](https://redux-toolkit.js.org/))
+- Redux
 - Material UI
 - Material UI Icons
 - LocalStorage
 - Web worker
 
-## :trophy: Features
+## Features
 
 - Users can search and filter notes.
 - Users can add new notes.
@@ -21,14 +21,14 @@
 - When editing notes, the date of note also updates all together with other fields.
 - Confirmation pops up when deleting notes.
 
-## :gem: Additional Features
+## Additional Features
 
 - Notes data stored in localStorage
 - Installable (PWA)
 - Optimized for mobile
 - Ability to mock notes if notes list is empty
 
-## :wrench: Project setup
+## Project setup
 
 ```bash
 # In the project directory run:
